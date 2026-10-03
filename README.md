@@ -1,5 +1,7 @@
 # Living Codebase Cartographer — offline codebase map, dependency graph & impact analysis (no LSP, no cloud)
 
+**Live demo:** https://griffin-smith-gender-oxford.trycloudflare.com — the generated map of all four codebases, no account needed.
+
 > **Map any codebase offline in seconds: endpoints, call graphs, data lineage,
 > blast-radius (impact) analysis, and request-flow tracing — with evidence +
 > confidence on every fact. Zero dependencies, zero network calls, zero
